@@ -3,3 +3,4 @@
 demo.py
 dummy.txt
 __pycache__
+db*
