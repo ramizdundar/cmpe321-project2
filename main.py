@@ -1,5 +1,7 @@
 import os
 
+# to add test cases drag out zip contents into db folder
+# note that db is global variable
 
 # global variables
 
